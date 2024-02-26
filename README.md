@@ -1,7 +1,7 @@
 # GIT COMMIT CONVENTIONS
 
 ## Introduction
-> A commit message indicates how great a developer is great collaborator
+> A commit message indicates how a developer is great collaborator
 
 ## Vscode Extension
 
