@@ -109,7 +109,6 @@ feat(lang): add Polish language
 ```
 fix: prevent racing of requests
 
-
 Introduce a request id and a reference to latest request. Dismiss
 incoming responses other than from latest request.
 
